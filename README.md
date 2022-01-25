@@ -1,0 +1,2 @@
+# contract
+Kinipot Token Contract
